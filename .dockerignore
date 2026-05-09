@@ -1,0 +1,12 @@
+node_modules
+**/node_modules
+.pnpm-store
+.npm-cache
+.tmp
+dist
+**/dist
+.git
+.replit
+download-test
+*.log
+_tmp_*
